@@ -1,0 +1,4 @@
+p, admin, *, *
+p, user, device_*, ping
+p, user, device_*, get_system_info
+p, user, device_*, list_processes
